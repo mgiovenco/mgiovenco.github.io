@@ -23,37 +23,42 @@ Instagram: [https://www.instagram.com/mikegiovenco](https://www.instagram.com/mi
 2.
 3.
 
-Back End Layer
+###Back End Layer
 1.
 2.
 3.
 
-Database Layer
+###Database Layer
 1.
 2.
 3.
 
-Infrastructure
+###Infrastructure
 1.
 2.
 3.
 
-Security
+###Security
 1.
 2.
 3.
 
-Algorithms
+###Algorithms
 1.
 2.
 3.
 
-Datastructures
+###Datastructures
 1.
 2.
 3.
 
-Coding Challenge Problems
+###Coding Challenge Problems
+1.
+2.
+3.
+
+###Soft Skills
 1.
 2.
 3.
