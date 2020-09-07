@@ -8,8 +8,7 @@ Linkedin: [https://www.linkedin.com/in/michael-giovenco-a7493612/](https://www.l
 
 Instagram: [https://www.instagram.com/mikegiovenco](https://www.instagram.com/mikegiovenco)
 
-Front End Layer
-
+###Front End Layer
 1. HTML/CSS
 2. Javascript
 3. jQuery
@@ -19,11 +18,42 @@ Front End Layer
 7. Responsive Web
 8. Cross-Browser Development
 
+###API Layer
+1.
+2.
+3.
 
-API Layer
 Back End Layer
+1.
+2.
+3.
+
 Database Layer
+1.
+2.
+3.
+
 Infrastructure
+1.
+2.
+3.
+
 Security
+1.
+2.
+3.
+
 Algorithms
+1.
+2.
+3.
+
 Datastructures
+1.
+2.
+3.
+
+Coding Challenge Problems
+1.
+2.
+3.
