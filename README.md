@@ -52,14 +52,29 @@ TODO: Create Image showing the different layers and then clickable to section
 7. Database Migrations
 8. Database Concerns
 
-
 ###Infrastructure
 1. Docker
 2. Kubernetes
+3. Infrastructure as Code
 
 ###Security
 1. OWASP
 2. DDOS
+
+###Google Cloud Products (GCP)
+1. TBD
+
+###Amazon Web Services (AWS)
+1. TBD
+
+###Severless Architecture
+1. TBD
+
+###Low Cost Architecture
+1. TBD
+
+###High Performance Computing (HBC)
+1. TBD
 
 ###Algorithms
 1. TBD
@@ -69,7 +84,6 @@ TODO: Create Image showing the different layers and then clickable to section
 
 ###Coding Challenge Problems
 1. TBD
-
 
 ###Soft Skills
 1. TBD
