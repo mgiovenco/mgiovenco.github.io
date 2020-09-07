@@ -8,12 +8,10 @@ Linkedin: [https://www.linkedin.com/in/michael-giovenco-a7493612/](https://www.l
 
 Instagram: [https://www.instagram.com/mikegiovenco](https://www.instagram.com/mikegiovenco)
 
-##Front End Layer
-
-##API Layer
-
-##Back End Layer
-
-##Database Layer
-
-##Infrastructure
+Front End Layer
+API Layer
+Back End Layer
+Database Layer
+Infrastructure
+Algorithms
+Datastructures
