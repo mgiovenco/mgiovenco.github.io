@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to My Personal Site
+
+My name is Michael Giovenco and this is my personal website.  I'm a professional software engineer, aspiring naturalist, and a lot of random other interests in between.  This page is mainly dedicated to software skills I find useful to reference, but will have other topics I find interesting as well.  Feel free to checkout my github portfolio to see what I'm working on in my freetime or checkout my instagram for any adventures I'm getting into.
 
 You can use the [editor on GitHub](https://github.com/mgiovenco/mgiovenco.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
