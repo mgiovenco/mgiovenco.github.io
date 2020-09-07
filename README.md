@@ -8,6 +8,8 @@ Linkedin: [https://www.linkedin.com/in/michael-giovenco-a7493612/](https://www.l
 
 Instagram: [https://www.instagram.com/mikegiovenco](https://www.instagram.com/mikegiovenco)
 
+TODO: Create Image showing the different layers and then clickable to section
+
 ###Front End Layer
 1. HTML/CSS
 2. Javascript
@@ -45,9 +47,10 @@ Instagram: [https://www.instagram.com/mikegiovenco](https://www.instagram.com/mi
 2. MySQL
 3. Postgres
 4. MongoDb
-5. Cache Layer - Redis
-6. Database Migrations
-7. Database Concerns
+5. Hibernate
+6. Cache Layer - Redis
+7. Database Migrations
+8. Database Concerns
 
 
 ###Infrastructure
