@@ -11,19 +11,12 @@ Instagram: [https://www.instagram.com/mikegiovenco](https://www.instagram.com/mi
 Front End Layer
 
 1. HTML/CSS
-
 2. Javascript
-
 3. jQuery
-
 4. ReactJs
-
 5. AngularJs
-
 6. Vue
-
 7. Responsive Web
-
 8. Cross-Browser Development
 
 
